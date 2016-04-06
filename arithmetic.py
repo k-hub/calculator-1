@@ -31,14 +31,14 @@ def square(num1):
 
     Multiply num1 by itself returning the result.
     """
-    return num1 * num1
+    return num1 ** 2
 
 def cube(num1):
     """Cube a number.
 
     Multiply num1 to itself twice returning the result.
     """
-    return num1 * num1 * num1
+    return num1 ** 3
 
 def power(num1, num2):
     """ Raise a number by another number.
