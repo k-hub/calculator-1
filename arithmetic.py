@@ -11,7 +11,7 @@ def divide(num1, num2):
     return float(num1) / float(num2)
 
 def square(num1):
-    pass
+    return num1 * num1
 
 def cube(num1):
     pass
